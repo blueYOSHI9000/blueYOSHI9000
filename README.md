@@ -11,4 +11,4 @@ Mario & Luigi Partners in Time: [Area IDs & Boss IDs](https://gist.github.com/bl
 
 Mario & Luigi Bowser's Inside Story: [Room IDs, Battle IDs & Stage IDs](https://gist.github.com/blueYOSHI9000/e7ee87d52368bc7b779e468b259a0cf2)
 
-Paper Mario: Master Quest: [Area IDs & Boss IDs](https://gist.github.com/blueYOSHI9000/c890a5a8ce95d22104059eba3b9795c8)
+Paper Mario: Master Quest: [Area IDs & Boss IDs](https://gist.github.com/blueYOSHI9000/c890a5a8ce95d22104059eba3b9795c8) - [RP Script Docs/Notes](https://gist.github.com/blueYOSHI9000/503f0ba2b2839b4f7e59e0103087eed8)
